@@ -1,0 +1,1 @@
+{"version":3,"file":"shared.esm-bundler.js","sources":["../src/index.ts"],"sourcesContent":["\r\n\r\nexport function isObject(target){\r\n    return typeof target ==='object' && target != null\r\n}"],"names":[],"mappings":"AAEO,SAAS,QAAQ,CAAC,MAAM,CAAC;AAChC,IAAI,OAAO,OAAO,MAAM,IAAI,QAAQ,IAAI,MAAM,IAAI,IAAI;AACtD;;;;"}
